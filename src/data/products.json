@@ -1,0 +1,185 @@
+[
+  {
+    "id": 1,
+    "name": "Royal Velvet Sherwani Set",
+    "category": "Men",
+    "subCategory": "Sherwanis",
+    "price": 24999,
+    "rating": 4.9,
+    "reviews": 128,
+    "description": "Exude regal elegance in this handcrafted deep maroon velvet sherwani. Featuring intricate zardozi embroidery and antique gold button detailing, this ensemble includes a matching cream churidar and a silk stole. Perfect for weddings and grand festivities.",
+    "images": [
+      "https://images.pexels.com/photos/3998071/pexels-photo-3998071.jpeg"
+    ],
+    "stock": 15,
+    "colors": [
+      "Maroon",
+      "Navy Blue"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pure Linen Hand-Loomed Kurta",
+    "category": "Men",
+    "subCategory": "Kurtas",
+    "price": 4499,
+    "rating": 4.7,
+    "reviews": 342,
+    "description": "Experience the breathable luxury of 100% European flax linen. This handcrafted white kurta features a mandarin collar and subtle mother-of-pearl buttons. Ideal for summer soirées or sophisticated casual wear.",
+    "images": [
+      "https://images.pexels.com/photos/6149583/pexels-photo-6149583.jpeg"
+    ],
+    "stock": 45,
+    "colors": [
+      "White",
+      "Beige",
+      "Sage Green"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Italian Wool Slim-Fit Suit",
+    "category": "Men",
+    "subCategory": "Jackets",
+    "price": 18500,
+    "rating": 4.8,
+    "reviews": 89,
+    "description": "A masterpiece of tailoring, this charcoal grey suit is crafted from premium Italian Super 120s wool. Featuring a structured shoulder and modern slim lapel — perfect for corporate or cocktail events.",
+    "images": [
+      "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg"
+    ],
+    "stock": 20,
+    "colors": [
+      "Charcoal",
+      "Deep Navy"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Kanjeevaram Silk Saree",
+    "category": "Women",
+    "subCategory": "Sarees",
+    "price": 32000,
+    "rating": 5.0,
+    "reviews": 215,
+    "description": "A timeless heirloom, this authentic Kanjeevaram silk saree is woven with pure mulberry silk and rich zari. The emerald green body contrasts with a temple border, making it a stunning choice for bridal wear or traditional ceremonies.",
+    "images": [
+      "https://cdn.pixabay.com/photo/2022/10/13/08/36/indian-7494834_1280.jpg"
+    ],
+    "stock": 8,
+    "colors": [
+      "Emerald Green",
+      "Royal Blue"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Embroidered Bridal Lehenga",
+    "category": "Women",
+    "subCategory": "Lehengas",
+    "price": 55000,
+    "rating": 4.9,
+    "reviews": 56,
+    "description": "Step into a fairytale with this voluminous pastel pink lehenga. Adorned with delicate floral embroidery, sequins, and crystal work on soft net fabric, this set comes with a matching blouse and a sheer dupatta.",
+    "images": [
+      "https://images.pexels.com/photos/774890/pexels-photo-774890.jpeg"
+    ],
+    "stock": 5,
+    "colors": [
+      "Pastel Pink",
+      "Ivory"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Midnight Velvet Evening Gown",
+    "category": "Women",
+    "subCategory": "Dresses",
+    "price": 12500,
+    "rating": 4.6,
+    "reviews": 112,
+    "description": "Turn heads at any gala in this floor-sweeping midnight blue velvet gown with an off-shoulder neckline and dramatic side slit, balancing classic glamour with contemporary allure.",
+    "images": [
+      "https://images.pexels.com/photos/10242869/pexels-photo-10242869.jpeg"
+    ],
+    "stock": 25,
+    "colors": [
+      "Midnight Blue",
+      "Black",
+      "Burgundy"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Festive Boys Kurta Jacket Set",
+    "category": "Kids",
+    "subCategory": "Boys Sets",
+    "price": 3499,
+    "rating": 4.7,
+    "reviews": 180,
+    "description": "Make your little one shine in this charming 3-piece set with a cotton silk kurta, churidar, and festive Nehru jacket with gold foil prints — soft, comfortable, and stylish.",
+    "images": [
+      "https://images.pexels.com/photos/4486655/pexels-photo-4486655.jpeg"
+    ],
+    "stock": 60,
+    "colors": [
+      "Yellow",
+      "Blue"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Princess Tulle Party Dress",
+    "category": "Kids",
+    "subCategory": "Girls Dresses",
+    "price": 2899,
+    "rating": 4.8,
+    "reviews": 240,
+    "description": "A dreamy tulle dress in powder blue with flower appliques and a cotton lining. Perfect for birthdays and celebrations where she can twirl in style.",
+    "images": [
+      "https://images.pexels.com/photos/3755891/pexels-photo-3755891.jpeg"
+    ],
+    "stock": 50,
+    "colors": [
+      "Powder Blue",
+      "Pink",
+      "Lilac"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Traditional Silk Pavadai Set",
+    "category": "Kids",
+    "subCategory": "Ethnic Wear",
+    "price": 4200,
+    "rating": 4.9,
+    "reviews": 95,
+    "description": "Authentic South Indian silk pavadai and top set with rich zari borders, lightweight and comfortable for festive days and celebrations.",
+    "images": [
+      "https://cdn.pixabay.com/photo/2020/01/29/07/04/child-4804554_1280.jpg"
+    ],
+    "stock": 30,
+    "colors": [
+      "Red & Gold",
+      "Green & Pink"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Boys Dhoti Kurta Set",
+    "category": "Kids",
+    "subCategory": "Boys Sets",
+    "price": 2699,
+    "rating": 4.6,
+    "reviews": 78,
+    "description": "Traditional boys’ dhoti kurta set with delicate thread embroidery and comfy cotton fabric — perfect for pujas, Ganesh festival, or Navratri celebrations.",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSfAjQqpW_XWxMbHBWY762aakMeH7HSFbbYvt4F09x7tmtaojkS5t9k3rf64autBHvBmklIJYqGDn462oaQ_dgNS0vwlM7LdJTWVEuqe7YNRRtCRrzFWR-oMQ"
+    ],
+    "stock": 40,
+    "colors": [
+      "Cream",
+      "Mustard"
+    ]
+  }
+]
