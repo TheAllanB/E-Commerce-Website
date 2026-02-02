@@ -2,7 +2,7 @@
 
 A modern, responsive, and minimalist e-commerce frontend built with React, Vite, and Tailwind CSS.
 
-## 🚀 Features
+## Features
 
 - **Storefront**: Hero banner, featured products, category navigation.
 - **Product Filtering**: Sidebar with category, price range, and search filtering.
@@ -12,7 +12,7 @@ A modern, responsive, and minimalist e-commerce frontend built with React, Vite,
 - **Authentication**: Mock login/signup with user profile management.
 - **Responsive Design**: Optimized for mobile, tablet, and desktop.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React**: UI Library
 - **Vite**: Build tool
@@ -21,7 +21,7 @@ A modern, responsive, and minimalist e-commerce frontend built with React, Vite,
 - **Lucide React**: Icons
 - **Context API**: State Management (Cart & Auth)
 
-## 🏃‍♂️ How to Run
+## How to Run
 
 1.  **Install Dependencies**
     ```bash
@@ -38,7 +38,7 @@ A modern, responsive, and minimalist e-commerce frontend built with React, Vite,
     npm run build
     ```
 
-## 📂 Folder Structure
+## Folder Structure
 
 - `src/components`: Reusable UI components (Navbar, ProductCard, buttons, etc.)
 - `src/pages`: Page components (Home, Products, Cart, etc.)
